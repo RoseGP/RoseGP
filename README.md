@@ -2,10 +2,6 @@
 
 •You can connect with me on https://www.linkedin.com/in/rosegp/
 
-•I’m interested in app development, web development, cloud technology 
-
-• 🌱 I’m currently learning cloud technology 
-
 •📫 How to reach me out at info@webcreatorlive.com
 
 <!---
