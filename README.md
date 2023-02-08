@@ -2,7 +2,7 @@
 
 •You can connect with me on https://www.linkedin.com/in/rosegp/
 
-•📫 How to reach me out at info@webcreatorlive.com
+•📫 How to reach me at info@webcreatorlive.com
 
 <!---
 RoseGP/RoseGP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
