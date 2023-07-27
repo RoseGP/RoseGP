@@ -1,7 +1,7 @@
 
 Hey I'm Rose..
 
-- 📫 How to reach me at info@webcreatorlive.com
+
 - Feel free to connect with me
 <img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white&color=black" />](https://github.com/RoseGP)
 [<img 
